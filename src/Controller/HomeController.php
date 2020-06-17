@@ -28,6 +28,7 @@ class HomeController extends AbstractController
 
     }
 
+
     /**
      * on place les paramètres dynamiques entre accolades
      * URI valide : /test/42 par exemple
